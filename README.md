@@ -60,13 +60,8 @@ An animated, responsive portfolio web page with a playful cat theme. Built using
 Feel free to reach out if you have questions or suggestions!
 
 - [GitHub Issues](https://github.com/Sushanth-Sharma/Animated_Cat_Portfolio_Page/issues)
-- [Your Email](mailto:your.email@example.com)
+- [Your Email](mailto:sushanthsharma2003@gmail.com)
 
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
